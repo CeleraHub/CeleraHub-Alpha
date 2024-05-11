@@ -436,7 +436,7 @@ local CreditsTab = Window:MakeTab({
 })
 
 CreditsTab:AddParagraph("DEV: CeleraBTW, Co-Owner: Feltik")
-CreditsTab:AddParagraph("Version: DEV")
+CreditsTab:AddParagraph("Version: Public | Free")
 CreditsTab:AddParagraph("CeleraHub discord: discord.gg/shaseshenety")
 
 coroutine.resume(NotificationCoroutine)
